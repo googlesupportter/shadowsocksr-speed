@@ -29,7 +29,7 @@ url: //输入入SSR订阅链接
 ### macOS 用户
 
 ```
-$ brew cask install chromedriver //!!!!! 建议使用 Homebrew cask 安装 chromedriver
+$ brew  install --cask chromedriver //!!!!! 建议使用 Homebrew cask 安装 chromedriver
 $ pip3 install PySocks prettytable pyvirtualdisplay selenium colorama requests
 $ git clone https://github.com/mobier/shadowsocksr-speed.git
 $ cd shadowsocksr-speed
